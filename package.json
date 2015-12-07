@@ -1,0 +1,10 @@
+{
+  "name": "http proxy server",
+  "version": "0.0.0",
+  "description": "http proxy server",
+  "main": "app.js",
+  "author": {
+    "name": "zhaozhongshu",
+    "email": "zhaozhongshu@baidu.com"
+  }
+}
